@@ -1,0 +1,12 @@
+nombre_completo,nombre,subcategoria
+aspectos de conservacion,conservacion,cons_agua
+aspectos de conservacion,conservacion,cons_suelo
+aspectos de conservacion,conservacion,cons_bio
+condiciones biofisicas,biofisicas,cond_amb
+condiciones biofisicas,biofisicas,rec_nat
+condiciones biofisicas,biofisicas,rec_no_nat
+ganaderia,ganaderia,man_par
+ganaderia,ganaderia,man_gan
+aspectos sociales,sociales,cond_soc
+aspectos sociales,sociales,subj
+aspectos sociales,sociales,actores

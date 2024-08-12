@@ -1,0 +1,57 @@
+indice,nombre,genero,localidad,ejido,mapa,audio,solo_audio,edad,lugar_nacimiento,propiedad,generacion,extension,num_ganado,riego,escolaridad,ocupaciones,tiempo_ganadero,num_personas_casa,remesas,importancia_remesas,part_asambleas,nivel_par_asambleas,juntas_vecinales,nivel_par_juntas,comunidad_organizada,apoyos_gobierno,apoyos_antes,juntas_apoyos,radio,television,internet,internet_celular,computadora,redes_sociales,estacion_biologia,ultima_vez,conocimiento_trabajo,contacto_investigadores,participacion_investigaciones,familiar_estacion,conocimiento_administracion_reserva,taller_educacion_ambiental,importido_por,material_informativo,repartido_por,practicas_propuestas
+1,J Santos Ribera,H,SM,SM,1,0,,75,"Michoacán, La Polvareda",ejidatario,,100,35,,primaria,"ganadería, agricultura",siempre,2,0,NA,1,10,0,NA,,1,,0,0,1,1,1,,1,1,,1,1,1,0,,,,,,
+2,Ramón Ramiro Peña Deniz,H,SM,SM,1,0,,70,"Jalisco, Villa Purificación",ejidatario,,147,50,,bachillerato,"ganadería, rentas",45 años,2,0,NA,1,10,0,NA,,1,,0,0,1,1,1,,1,1,,1,1,1,0,,,,,,
+3,Gregorio Medina,H,SM,SM,1,1,1,68,"Michoacán, Aquila",ejidatario,,12,23,,primaria,ganadería,58 años,,1,muy,1,10,1,10,,1,,0,0,1,1,1,,1,1,,1,0,0,0,,,,,,
+4,Eloy Castro Cisneros,H,SM,SC,1,0,,58,"Jalisco, Zacoalco de Torres",ejidatario,,25,30,,secundaria,"ganadería, tienda",20 años,4,0,NA,1,5,1,10,,0,,NA,0,1,1,1,,1,1,,1,1,1,0,,,,,,
+5,Juan Manuel González López,H,SM,SM,1,1,,50,"Jalisco, La Huerta",posesionario,,60,20,,bachillerato,"ganadería, municipio",siempre,2,1,muy,1,10,0,NA,,0,,NA,0,1,1,1,,0,1,,1,1,0,1,,,,,,
+6,Arnoldo Ochoa,H,SM,JG,1,1,,65,"Michoacán, Aguililla",ejidatario,,80,30,,primaria,"ganadería, carnicería",siempre,2,0,NA,1,10,0,NA,,0,,0,0,1,1,0,,0,1,,1,1,0,0,,,,,,
+7,Jesus Antonio Barosio Sandoval,H,SM,SM,1,1,,40,"Jalisco, La Huerta",ejidatario,,18,18,,bachillerato,"ganadería, servicios",5 años,6,0,NA,1,7,1,7,,0,,NA,1,1,1,1,,1,1,,1,1,1,1,,,,,,
+8,Heriberto Naranjo,H,LFRA,LFRA,1,1,,25,"Colima, Manzanillo",hijo_ejidatario,,290,65,,superior,"ganadería, ayuntamiento",siempre,3,0,NA,NA,NA,0,NA,,0,,NA,0,1,1,1,,1,0,,0,1,0,1,,,,,,
+9,Ramón Verdusco,H,FV,FV,1,1,,80,"Michoacán, Chinicuila",ejidatario,,80,50,,ninguna,"ganadería, agricultura",siempre,6,0,NA,1,10,0,NA,,0,,NA,0,1,0,0,,0,1,,1,1,0,1,,,,,,
+10,Marcelino Sánchez,H,FV,FV,1,1,,75,"Jalisco, La Huerta",ejidatario,,10,28,,primaria,"ganadería, pesca",siempre,3,1,muy,1,9,0,3,,1,,0,0,1,1,1,,1,1,,1,1,1,1,,,,,,
+11,Javier Méndez,H,FV,FV,1,1,,63,"Colima, Colima",ejidatario,,60,60,,superior,"ganadería, caza, construcción, telefonía",40 años,5,0,NA,1,10,0,NA,,1,,0,1,1,1,1,,1,1,,1,1,1,0,,,,,,
+12,"Leopoldo ""Polo""",H,EZ,EZ,0,1,1,83,"Jalisco, Villa Purificación",ejidatario,,400,200,,ninguna,ganadería,siempre,2,0,NA,1,10,0,NA,,1,,1,0,1,0,0,,0,1,,0,1,1,0,,,,,,
+13,Gerardo Sánchez,H,EZ,EZ,0,1,1,62,"Michoacán, Chinicuila",ejidatario,,160,70,,primaria,"gamadería, agricultura, tienda",siempre,3,1,regular,1,10,1,10,,1,,1,1,1,0,0,,0,1,,0,1,1,0,,,,,,
+14,Luis Manuel,H,JG,JG,1,1,,51,"Jalisco, Pihuamo",ejidatario,,50,13,,primaria,"ganadería, ganado caprino",siempre,4,0,NA,1,10,1,10,,0,,0,0,1,0,0,,0,1,,1,1,1,0,,,,,,
+15,Gregorio,H,JG,JG,1,1,,48,"Jalisco, La Huerta",ejidatario,,95,17,,primaria,"ganadería, agricultura",siempre,4,0,NA,1,7,0,NA,,1,,1,0,1,0,0,,0,0,,1,0,0,0,,,,,,
+16,José Alejando Peña,H,SM,SM,0,1,1,63,"Jalisco, Villa Purificación",ejidatario,,200,20,,superior,"ganadería, careyes",35 años,4,0,NA,1,10,1,10,,0,,NA,1,1,1,1,,1,1,,1,1,1,1,,,,,,
+17,Ismael Madrigal,H,JG,JG,1,1,,51,"Jalisco, ",ejidatario,,31,10,,primaria,"ganadería, empleo, jardinería",20 años,3,0,NA,1,10,1,3,,0,,NA,0,0,1,1,,1,1,,1,1,1,0,,,,,,
+18,Arnoldo Hijo,H,SM,SM,1,1,,18,"Jalisco, La Huerta",hijo_ejidatario,,18,30,,bachillerato,"ganadería, carnicería",siempre,2,0,NA,NA,NA,0,NA,,0,,NA,0,1,1,1,,1,1,,1,0,0,1,,,,,,
+19,David Zúñiga,H,EZ,EZ,1,1,,55,"Michoacán, Coalcomán",avecindado,,20,,,primaria,"ganadería, obra, plomería",siempre,3,0,NA,NA,NA,1,5,,0,,NA,1,0,1,0,,0,0,,0,0,0,0,,,,,,
+20,Hilario Maldonado,H,LF,LF,0,1,,65,"Jalisco, Villa Purificación",ejidatario,,100,38,,primaria,"ganadería, tienda, tacos",28 años,3,0,NA,1,9,1,5,,1,,0,0,1,1,1,,1,1,más de 20 años,1,1,0,1,,,,,,
+21,Urbi Villanueva,M,JG,JG,0,1,1,45,"Guerrero, Acapulco",esposx_ejidatario,,80,30,,secundaria,"ganadería, agricultura, carnicería",23 años,3,0,NA,NA,NA,0,NA,,0,,NA,0,1,1,1,,1,0,,1,0,0,0,,,,,,
+22,Pedro Ibarra,H,LF,LF,1,1,,66,"Jalisco, La Huerta",ejidatario,,120,40,1,primaria,"ganadería, ganado caprino, tienda",siempre,5,0,NA,1,10,0,NA,,1,,0,1,1,0,0,,0,1,,1,1,1,0,,,,,,
+23,Gilberto Noboa Robles,H,FV,FV,1,1,,47,"Jalisco, Cuautitlán de García Barragán",ejidatario,,20,13,,primaria,"ganadería, agricultura, electricista",siempre,4,0,NA,1,10,1,10,,0,,NA,0,1,1,1,,1,1,,1,1,0,1,,,,,,
+24,Crispín,H,EZ,EZ,1,0,,53,"Jalisco, La Huerta",ejidatario,,22,17,,primaria,"ganadería, tienda, pesca, renta",siempre,6,0,NA,1,10,0,NA,,0,,NA,0,1,1,1,,1,1,,0,0,0,1,,,,,,
+25,Salvador Castañeda,H,EZ,EZ,1,1,,68,"Jalisco, Pihuamo",ejidatario,,25,60,,primaria,"ganadería, empleo",siempre,3,0,NA,1,10,1,10,,1,,1,0,1,1,1,,1,1,,1,1,1,1,,,,,,
+26,Alejandro Muñoz,H,RA,RA,0,1,,62,"Jalisco, Ejotitlán",esposx_ejidatario,,140,70,,primaria,ganadería,siempre,5,0,NA,NA,NA,1,10,,1,,0,1,0,0,0,,0,0,,1,0,0,0,,,,,,
+27,Santiago Ibarra,H,LF,LF,1,1,1,52,"Jalisco, La Fortuna",hijo_ejidatario,2,20,12,0,secundaria,"ganadería, obra, agricultura",15 años,,0,NA,NA,NA,1,10,0,0,0,NA,0,1,1,1,0,1,1,4 años,1,1,1,1,0,0,NA,0,NA,0
+28,J. Carmelo,H,RA,RA,0,1,1,63,"Jalisco, La Huerta",ejidatario,1,30,10,0,ninguna,"ganadería, tienda",15 años,,0,NA,1,10,1,10,1,0,1,NA,0,1,0,0,0,0,1,10 años,0,0,0,0,0,0,NA,1,no_sabe,0
+29,Roberto Valencia,H,RA,RA,0,1,1,75,"Michoacán, Cotija",ejidatario,1,200,80,1,ninguna,ganadería,50 años,,0,NA,1,10,1,10,1,1,1,0,1,1,0,0,0,0,1,15 años,1,1,1,1,biologia,0,NA,1,los de biología,0
+30,Andrés García,H,RA,RA,0,1,1,43,"Michoacán, La Huerta",ejidatario,2,50,24,1,primaria,"ganadería, jornal",36 años,,0,NA,1,10,0,0,1,0,1,NA,0,0,0,0,0,0,0,NA,0,1,1,0,0,1,escuela_de_campo,1,no_sabe,"árboles forrajeros, cercos vivos"
+31,Guadalupe Ramírez,H,NC,LI,0,1,1,59,Tijuana,ejidatario,1,70,7,1,primaria,"ganadería, jornal",siempre,,0,NA,1,10,1,10,0,0,1,NA,0,0,0,0,0,0,0,NA,0,0,0,0,0,0,NA,0,NA,0
+32,María Cristina,M,NC,LI,1,1,1,40,"Jalisco, Guadalajara",esposx_ejidatario,2,97,80,0,primaria,"ganadería, ama de casa, pasteles",siempre,,0,NA,NA,NA,1,5,0,0,0,NA,0,0,1,1,0,1,0,NA,0,0,0,0,0,1,Paty Santillán,1,en la casa ejidal,0
+33,Lorena Montejano,M,NC,LI,1,1,1,45,"Jalisco, La Huerta, Nacastillo",esposx_ejidatario,2,62,20,0,primaria,"ganadería, ama de casa",siempre,,0,NA,NA,NA,1,10,0,0,1,0,0,0,1,1,0,0,0,NA,1,0,0,0,unam,0,NA,0,NA,0
+34,Cristino Ramírez,H,NC,LI,0,1,1,45,"Jalisco, La Huerta, Nacastillo",ejidatario,2,97,80,0,primaria,"ganadería, brigada, cuidado de otro ganado",siempre,,0,NA,1,10,1,7,0,0,0,NA,0,0,1,1,0,1,1,9 años,1,1,1,1,0,0,NA,1,los biólogos,0
+35,Bruno,H,LF,NEJ,0,1,1,40,"Jalisco, Tomatlán",pequeña_propiedad,2,200,70,0,primaria,"ganadería, maderería, pesca en ríos",20 años,,0,NA,NA,NA,NA,NA,0,0,0,NA,0,0,0,0,0,0,0,NA,0,1,0,0,0,0,NA,0,NA,0
+36,José Ramírez,H,LF,NEJ,0,1,1,32,"Jalisco, Tomatlán",pequeña_propiedad,2,60,14,0,preparatoria,"ganadería, jornal, obra",4 años,,0,NA,NA,NA,1,5,0,0,1,0,0,1,1,1,0,1,0,NA,0,0,0,0,unam,0,NA,0,NA,inseminar
+37,Alfredo Naranjo,H,LFRA,LFRA,0,1,0,57,"Jalisco, La Huerta, MIguel Hidalgo Nuevo",ejidatario,2,150,60,0,secundaria,"ganadería, asociación ganadera",siempre,,0,NA,1,10,1,10,1,0,1,NA,0,1,1,1,1,1,1,25 años,1,1,1,1,"profepa, semarnat, cuixmala, unam",1,no_sabe,1,no_sabe,"bloques nutricionales, minerales"
+38,Everardo,H,LFRA,LFRA,0,1,0,62,"Jalisco, Aquila",ejidatario,2,72,33,0,secundaria,"ganadería, tienda, agricultura",siempre,,0,NA,1,4,0,0,0,0,1,NA,0,0,1,1,0,1,1,3 años,1,1,0,0,0,1,no_sabe,1,no_sabe,árboles para ramoneo
+39,Hilario,H,LFRA,LFRA,1,1,1,74,"Jalisco, Autlán",ejidatario,2,18,17,1,ninguna,"ganadería, agricultura",siempre,,0,NA,1,1,0,0,0,1,1,0,0,1,0,0,0,0,1,2 años,1,1,1,1,unam,0,NA,1,unam,0
+40,Daniel,H,LF,LF,0,1,1,76,"Jalisco, Ameca",ejidatario,1,78,46,0,ninguna,"ganadería, agricultura",siempre,,1,muy,1,10,1,10,1,1,1,0,0,1,0,0,0,0,1,5 años,1,1,1,0,biología,0,NA,0,NA,plantas árboles forrajeros
+41,Doña Lupe,M,FV,FV,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+42,Berta Alicia,M,SM,SM,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+43,Mónica Galván,M,NC,NC,1,1,1,60,"Jalisco, Villa Purificación",esposx_ejidatario,2,100,50,0,primaria,ganadería,35 años,2,0,NA,NA,NA,1,1,0,0,0,NA,0,1,1,1,0,0,1,15 años,1,1,1,0,0,0,NA,0,NA,0
+44,Carmelo Núñez,H,JG,JG,0,1,1,57,Guerrero,ejidatario,1,150,35,0,secundaria,"ganadería, agricultura, brigada",siempre,,0,NA,1,1,0,NA,0,1,0,NA,0,1,1,1,0,1,1,5 años,1,1,1,1,1,1,"escuela_de_campo, estacion_de_biologia",1,carlos_esquivel,"árboles para ramoneo, plantas medicinales"
+45,Manuel,H,LFRA,LFRA,0,1,1,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+46,Martiniano,H,NC,NC,0,1,1,83,"Jalisco, Villa Purificación, Jirosto",ejidatario,1,70,30,0,primaria,ganadería,siempre,,0,NA,1,9,0,NA,1,1,1,0,0,0,0,0,0,0,1,6 años,0,1,0,0,0,0,NA,0,NA,0
+47,Aldo,H,NC,NC,1,1,,19,"Jalisco, La Huerta, Nacastillo",hijx_ejidatario,3,100,6,1,bachillerato,"ganadería, brigada, jornal, gallos",siempre,,0,NA,NA,NA,1,2,0,0,1,1,1,1,1,1,1,1,1,3 años,1,1,1,0,pacho,0,NA,1,"natalia, felipe","cercos vivos, tala selectiva"
+48,César,H,RA,RA,1,1,,40,"Jalisco, La Huerta, Ranchitos",ejidatario,3,30,20,0,primaria,"ganadería, jornal",siempre,,1,poco,1,10,1,6,0,0,0,NA,0,1,1,1,0,1,0,NA,1,1,0,1,0,0,NA,1,natalia?,0
+49,Isidoro,H,JG,JG,1,1,,63,"Jalisco, La Meca",ejidatario,1,55,10,0,primaria,"ganadería, carpintería, tienda",34 años,,1,poco,1,10,1,2,0,1,0,NA,0,1,1,1,0,1,0,NA,0,1,0,0,0,1,escuela_de_campo,1,rosa?,ramoneo
+50,Eusebio Martínez,H,JG,JG,0,1,,65,"Michoacán, Villa Victoria",ejidatario,1,210,70,0,primaria,"ganadería, tienda, agricultura",43 años,2,1,poco,1,8,0,NA,0,1,1,0,0,0,1,1,0,1,1,3 años,1,1,0,0,0,0,NA,1,no_sabe,"cercos vivos, cercos pequeños"
+51,Jesús Montejano,H,NC,NC,0,1,,60,"Michoacán, La Huerta, Francisco Villa",ejidatario,1,300,80,0,primaria,ganadería,siempre,2,1,poco,1,10,0,0,0,1,1,0,0,1,0,0,0,0,1,6 años,1,1,1,0,0,1,no_sabe,1,estacion_de_biologia,0
+52,Ramón Flores,H,LFRA,LFRA,0,1,1,73,"Jalisco, Cuautitlán, Cuzalapa",ejidatario,2,100,5,0,primaria,ganadería,siempre,,0,NA,1,10,0,NA,0,0,0,NA,0,1,0,0,0,0,0,NA,0,0,0,0,,,,,,
+53,Rigoberto De Niz,H,NC,NC,0,1,1,80,"Jalisco, La Huerta, Nacastillo",ejidatario,1,80,30,0,ninguna,"ganadería, tienda",siempre,3,1,poco,1,10,0,NA,1,1,1,0,0,0,0,0,0,0,1,15 años,1,1,1,0,técnicos,1,tecnicos_de_uma,1,tecnicos_uma,0
+54,Valentín Martínez,H,RA,RA,0,1,1,59,,,,36,0,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+55,Baldomero Godínez Carrillo,H,SC,SC,0,1,1,83,,,,22,18,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+56,Don Chui,H,RA,RA,0,1,1,57,,,,27,21,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
